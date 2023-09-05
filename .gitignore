@@ -1,0 +1,6 @@
+# Virtual env folder
+venv/
+# Env file with private variables
+.env
+# Log file used for error logging
+*.log
